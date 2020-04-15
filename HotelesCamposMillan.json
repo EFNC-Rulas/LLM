@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "nom": "CampoFresco",
+        "telefon": "601168437",
+        "Email": "campofresco@gmail.com",
+        "Ubicación": "Son Calvo 1,3",
+        "cpostal": "07018",
+        "monedas": "dollar",
+        "niños": "si",  
+        "estrelles": "3",
+        "checkin": "15:15",
+        "checkout": "16:30",
+        "comidas": [
+            "comida",
+            "cena"
+        ],
+        "mascotes": [
+            "perro",
+            "gato"
+        ],
+        "servicios": [
+            "gym",
+            "padel",
+            "futbol"
+        ],
+        "idiomas": [
+            "español",
+            "ingles",
+            "frances"
+        ]
+    },
+    {
+        "id": 1,
+        "nom": "Millanis",
+        "telefon": "664456541",
+        "Email": "millanisHot@gmail.com",
+        "Ubicación": "Son millan 1,2",
+        "cpostal": "06013",
+        "monedas": "eur",
+        "niños": "si",
+        "estrelles": "4",
+        "checkin": "14:00",
+        "checkout": "16:30",
+        "comidas": [
+            "comida",
+            "cena",
+            "carta"
+        ],
+        "mascotes": [
+            "perro"
+        ],
+        "servicios": [
+            "spa",
+            "gym",
+            "tennis",
+            "padel"
+        ],
+        "idiomas": [
+            "español",
+            "aleman",
+            "ingles"
+        ]
+    },
+    {
+        "id": 2,
+        "nom": "CampoMillan",
+        "telefon": "601456789",
+        "Email": "CampoMillan@gmail.com",
+        "Ubicación": "Son CampoFMillan",
+        "cpostal": "06013",
+        "monedas": "eur",
+        "niños": "no",
+        "estrelles": "5",
+        "checkin": "14:00",
+        "checkout": "17:30",
+        "comidas": [
+            "comida",
+            "cena",
+            "carta"
+        ],
+        "mascotes": [
+            "perro",
+            "gato",
+            "leon"
+        ],
+        "servicios": [
+            "spa",
+            "gym",
+            "tennis",
+            "padel",
+            "futbol"
+        ],
+        "idiomas": [
+            "español",
+            "aleman",
+            "ingles",
+            "frances",
+            "chino"
+        ]
+    }
+]
