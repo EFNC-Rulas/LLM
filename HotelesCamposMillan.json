@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 0,
         "nom": "CampoFresco",
         "telefon": "601168437",
@@ -7,8 +6,8 @@
         "Ubicación": "Son Calvo 1,3",
         "cpostal": "07018",
         "monedas": "dollar",
-        "niños": "si",  
-        "estrelles": "3",
+        "niños": true,
+        "estrelles": 3,
         "checkin": "15:15",
         "checkout": "16:30",
         "comidas": [
@@ -28,6 +27,172 @@
             "español",
             "ingles",
             "frances"
+        ],
+        "agregadores": [
+            { "id": "Ag1", "nom": "Bedsonline" },
+            { "id": "Ag2", "nom": "HCorpo" },
+            { "id": "Ag3", "nom": "Restel" }
+        ],
+        "habitaciones": [{
+                "identificador": "1",
+                "nom": "Fresh",
+                "camas": ["individual"],
+                "servicios": ["minibar", "televisión", "aire acondicionado", "cuna"],
+                "precios": [{
+                    "precioBase": 20,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "baja",
+                    "idagregador": "Ag1",
+                    "preciosTotal": 26.18
+                }, {
+                    "precioBase": 25,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag1",
+                    "preciosTotal": 33.62
+                }, {
+                    "precioBase": 21,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 12,
+                    "tarifa": "baja",
+                    "idagregador": "Ag2",
+                    "preciosTotal": 28.24
+                }, {
+                    "precioBase": 26,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag2",
+                    "preciosTotal": 34.96
+                }, {
+                    "precioBase": 22,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 11,
+                    "tarifa": "baja",
+                    "idagregador": "Ag3",
+                    "preciosTotal": 29.58
+                }, {
+                    "precioBase": 30,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag3",
+                    "preciosTotal": 40.34
+                }],
+                "servicio de habitaciones": false,
+                "wc": true,
+                "serviciosWc": ["ducha", "wc", "gel", "toallas", "cepillo de dientes", "champu"],
+                "metros2": 20
+            },
+            {
+                "identificador": "2",
+                "nom": "Hot",
+                "camas": ["doble"],
+                "servicios": ["minibar", "televisión", "aire acondicionado", "caja fuerte", "telefono"],
+                "precios": [{
+                    "precioBase": 30,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "baja",
+                    "idagregador": "Ag1",
+                    "preciosTotal": 40.34
+                }, {
+                    "precioBase": 35,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag1",
+                    "preciosTotal": 47.06
+                }, {
+                    "precioBase": 31,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 12,
+                    "tarifa": "baja",
+                    "idagregador": "Ag2",
+                    "preciosTotal": 41.32
+                }, {
+                    "precioBase": 36,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag2",
+                    "preciosTotal": 47.98
+                }, {
+                    "precioBase": 32,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 11,
+                    "tarifa": "baja",
+                    "idagregador": "Ag3",
+                    "preciosTotal": 42.27
+                }, {
+                    "precioBase": 40,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag3",
+                    "preciosTotal": 53.79
+                }],
+                "cuina": ["microondas", "vitroceramica", "lavaplatos", "nevera"],
+                "servicio de habitaciones": false,
+                "wc": true,
+                "serviciosWc": ["ducha", "wc", "gel", "toallas", "cepillo de dientes", "champu", "bata de baño"],
+                "metros2": 30
+            },
+            {
+                "identificador": "3",
+                "nom": "HotPlus",
+                "camas": ["doble", "doble"],
+                "servicios": ["jacuzzi", "minibar", "televisión", "aire acondicionado", "caja fuerte", "telefono"],
+                "precios": [{
+                    "precioBase": 32,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "baja",
+                    "idagregador": "Ag1",
+                    "preciosTotal": 26.18
+                }, {
+                    "precioBase": 35,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag1",
+                    "preciosTotal": 33.62
+                }, {
+                    "precioBase": 33,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 11,
+                    "tarifa": "baja",
+                    "idagregador": "Ag2",
+                    "preciosTotal": 28.24
+                }, {
+                    "precioBase": 37,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 13,
+                    "tarifa": "alta",
+                    "idagregador": "Ag2",
+                    "preciosTotal": 34.96
+                }, {
+                    "precioBase": 35,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 14,
+                    "tarifa": "baja",
+                    "idagregador": "Ag3",
+                    "preciosTotal": 29.58
+                }, {
+                    "precioBase": 40,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 16,
+                    "tarifa": "alta",
+                    "idagregador": "Ag3",
+                    "preciosTotal": 40.34
+                }],
+                "servicio de habitaciones": true,
+                "wc": true,
+                "serviciosWc": ["ducha", "wc", "gel", "toallas", "cepillo de dientes", "champu", "bata de baño", "secador"],
+                "metros2": 40
+            }
         ]
     },
     {
@@ -38,36 +203,144 @@
         "Ubicación": "Son millan 1,2",
         "cpostal": "06013",
         "monedas": "eur",
-        "niños": "si",
-        "estrelles": "4",
+        "niños": true,
+        "estrelles": 4,
         "checkin": "14:00",
         "checkout": "16:30",
-        "comidas": [
-            "comida",
-            "cena",
-            "carta"
+        "comidas": ["comida", "cena", "carta"],
+        "mascotes": ["perro"],
+        "servicios": ["spa", "gym", "tennis", "padel"],
+        "idiomas": ["español", "aleman", "ingles"],
+        "agregadores": [
+            { "id": "Ag4", "nom": "Bedostine" },
+            { "id": "Ag5", "nom": "UnitedKinggrom" }
         ],
-        "mascotes": [
-            "perro"
-        ],
-        "servicios": [
-            "spa",
-            "gym",
-            "tennis",
-            "padel"
-        ],
-        "idiomas": [
-            "español",
-            "aleman",
-            "ingles"
+        "habitaciones": [{
+                "identificador": "1",
+                "nom": "Millen",
+                "camas": ["individual"],
+                "servicios": ["minibar", "televisión", "aire acondicionado", "cuna"],
+                "precios": [{
+                    "precioBase": 50,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 25,
+                    "tarifa": "baja",
+                    "idagregador": "Ag4",
+                    "preciosTotal": 74.37
+                }, {
+                    "precioBase": 75,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 25,
+                    "tarifa": "alta",
+                    "idagregador": "Ag4",
+                    "preciosTotal": 111.56
+                }, {
+                    "precioBase": 55,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 35,
+                    "tarifa": "baja",
+                    "idagregador": "Ag5",
+                    "preciosTotal": 88.35
+                }, {
+                    "precioBase": 80,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 35,
+                    "tarifa": "alta",
+                    "idagregador": "Ag5",
+                    "preciosTotal": 128.52
+                }],
+                "servicio de habitaciones": false,
+                "wc": true,
+                "serviciosWc": ["ducha", "wc", "gel", "toallas", "cepillo de dientes", "champu"],
+                "metros2": 20
+            },
+            {
+                "identificador": "2",
+                "nom": "mildos",
+                "camas": ["doble"],
+                "servicios": ["minibar", "televisiónn", "aire acondicionado", "caja fuerte", "telefon"],
+                "precios": [{
+                    "precioBase": 60,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 15,
+                    "tarifa": "baja",
+                    "idagregador": "Ag4",
+                    "preciosTotal": 82.11
+                }, {
+                    "precioBase": 76,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 15,
+                    "tarifa": "alta",
+                    "idagregador": "Ag4",
+                    "preciosTotal": 104
+                }, {
+                    "precioBase": 65,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 35,
+                    "tarifa": "baja",
+                    "idagregador": "Ag5",
+                    "preciosTotal": 71.65
+                }, {
+                    "precioBase": 80,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 35,
+                    "tarifa": "alta",
+                    "idagregador": "Ag5",
+                    "preciosTotal": 128.52
+                }],
+                "cuina": ["microondas", "vitroceramica", "lavaplatos", "nevera"],
+                "servicio de habitaciones": false,
+                "wc": true,
+                "serviciosWc": ["ducha", "wc", "gel", "toallas", "cepillo de dientes", "champu", "bata de baño"],
+                "metros2": 30
+            },
+            {
+                "identificador": "3",
+                "nom": "Viyus",
+                "camas": ["doble", "individual"],
+                "servicios": ["jacuzzi", "minibar", "televisión", "aire acondicionado", "caja fuerte", "telefon"],
+                "precios": [{
+                    "precioBase": 100,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 20,
+                    "tarifa": "baja",
+                    "idagregador": "Ag4",
+                    "preciosTotal": 142.8
+                }, {
+                    "precioBase": 136,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 20,
+                    "tarifa": "alta",
+                    "idagregador": "Ag4",
+                    "preciosTotal": 194.20
+                }, {
+                    "precioBase": 250,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 15,
+                    "tarifa": "baja",
+                    "idagregador": "Ag5",
+                    "preciosTotal": 342.12
+                }, {
+                    "precioBase": 500,
+                    "impuestoPerc": 19,
+                    "comisionesPerc": 15,
+                    "tarifa": "alta",
+                    "idagregador": "Ag5",
+                    "preciosTotal": 684.25
+                }],
+                "servicio de habitaciones": true,
+                "wc": true,
+                "serviciosWc": ["ducha", "wc", "gel", "toallas", "cepillo de dientes", "champu", "bata de baño", "secador", "zapatillas"],
+                "metros2": 40
+            }
         ]
     },
     {
         "id": 2,
-        "nom": "CampoMillan",
+        "nom": "CampoMillanAguilar",
         "telefon": "601456789",
-        "Email": "CampoMillan@gmail.com",
-        "Ubicación": "Son CampoFMillan",
+        "Email": "CampoMillanAguilar@gmail.com",
+        "Ubicación": "Son CampoFMillanLaragui",
         "cpostal": "06013",
         "monedas": "eur",
         "niños": "no",
@@ -98,5 +371,6 @@
             "frances",
             "chino"
         ]
+
     }
 ]
