@@ -10,7 +10,7 @@
         "estrelles": 3,
         "checkin": "15:15",
         "checkout": "16:30",
-        "imatge":"https://raw.githubusercontent.com/biela5/LLMJSON/master/playa.GIF",
+        "imatge":"https://raw.githubusercontent.com/EFNC-Rulas/LLM/master/1.jpg",
         "comidas": {
             "comida":true,
             "cena":true
@@ -226,7 +226,7 @@
         "mascotes": {"perro":true},
         "servicios": {"spa":true, "gym":true, "tennis":true, "padel":true},
         "idiomas": {"español":true, "aleman":true, "ingles":true},
-        "imatge":"https://raw.githubusercontent.com/¿¿????",
+        "imatge":"https://raw.githubusercontent.com/EFNC-Rulas/LLM/master/2.jpg",
         "agregadores": [{
                 "id": "Ag4",
                 "nom": "Bedostine"
@@ -368,7 +368,7 @@
             "estrelles": "5",
             "checkin": "13:00",
             "checkout": "09:30",
-            "imatge":"https://raw.githubusercontent.com/????¿¿",
+            "imatge":"https://raw.githubusercontent.com/EFNC-Rulas/LLM/master/3.jpg",
             "comidas": {
                 "comida":true,
                 "cena":true,
