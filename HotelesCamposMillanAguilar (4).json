@@ -406,7 +406,7 @@
             "habitaciones": [{
                         "id": 1,
                         "nom": "Crucial",
-                        "camas": {"Doble":1},
+                        "camas": {"doble":1},
                         "servicios": {"pack de bienvenida":true, "minibar":true, "cuna":true, "caja fuerte":true},
                         "preus": [{
                             "preuNet": 24,
@@ -445,7 +445,7 @@
                     {
                         "id": 2,
                         "nom": "doble luxury",
-                        "camas": {"Doble":1, "1 individual":1},
+                        "camas": {"doble":1, "1 individual":1},
                         "servicios": {"aire acondicionado":true, "caja fuerte":true, "minibar":true, "bañera hidromasaje":true, "telefono 24h":true},
                         "preus": [{
                             "preuNet": 26,
@@ -485,7 +485,7 @@
                     {
                         "id": 3,
                         "nom": "Suite Premium Swim Up",
-                        "camas": {"Doble":2},
+                        "camas": {"doble":2},
                         "servicios": {"doble planta":true, "gym":true, "minibar":true, "pack de bienvenida":true, "televisión":true, "telefono 24h":true, "acceso piscina privado":true},
                         "preus": [{
                             "preuNet": 30,
