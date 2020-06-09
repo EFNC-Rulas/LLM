@@ -43,7 +43,7 @@
             }
         ],
         "habitaciones": [{
-                "identificador": 1,
+                "id": 1,
                 "nom": "Fresh",
                 "camas": {"individual":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "cuna":true},
@@ -102,7 +102,7 @@
                 "metros2": 20
             },
             {
-                "identificador": 2,
+                "id": 2,
                 "nom": "Hot",
                 "camas": {"doble":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefono":true},
@@ -156,7 +156,7 @@
                 "metros2": 30
             },
             {
-                "identificador": 3,
+                "id": 3,
                 "nom": "HotPlus",
                 "camas": {"doble":2},
                 "servicios": {"jacuzzi":true, "minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefono":true},
@@ -238,7 +238,7 @@
             }
         ],
         "habitaciones": [{
-                "identificador": 1,
+                "id": 1,
                 "nom": "Millen",
                 "camas": {"individual":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "cuna":true},
@@ -277,7 +277,7 @@
                 "metros2": 20
             },
             {
-                "identificador": 2,
+                "id": 2,
                 "nom": "mildos",
                 "camas":  {"doble":1},
                 "servicios": {"minibar":true, "televisiónn":true, "aire acondicionado":true, "caja fuerte":true, "telefon":true},
@@ -317,7 +317,7 @@
                 "metros2": 30
             },
             {
-                "identificador": 3,
+                "id": 3,
                 "nom": "Viyus",
                 "camas": {"doble":1, "individual":1},
                 "servicios": {"jacuzzi":true, "minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefon":true},
@@ -404,7 +404,7 @@
                 }
             ],
             "habitaciones": [{
-                        "identificador": 1,
+                        "id": 1,
                         "nom": "Crucial",
                         "camas": {"Doble":1},
                         "servicios": {"pack de bienvenida":true, "minibar":true, "cuna":true, "caja fuerte":true},
@@ -443,7 +443,7 @@
                         "metros2": 14
                     },
                     {
-                        "identificador": 2,
+                        "id": 2,
                         "nom": "doble luxury",
                         "camas": {"Doble":1, "1 individual":1},
                         "servicios": {"aire acondicionado":true, "caja fuerte":true, "minibar":true, "bañera hidromasaje":true, "telefono 24h":true},
@@ -483,7 +483,7 @@
                         "metros2": 20
                     },
                     {
-                        "identificador": 3,
+                        "id": 3,
                         "nom": "Suite Premium Swim Up",
                         "camas": {"Doble":2},
                         "servicios": {"doble planta":true, "gym":true, "minibar":true, "pack de bienvenida":true, "televisión":true, "telefono 24h":true, "acceso piscina privado":true},
