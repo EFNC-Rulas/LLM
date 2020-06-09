@@ -47,7 +47,7 @@
                 "nom": "Fresh",
                 "camas": {"individual":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "cuna":true},
-                "precios": [{
+                "preus": [{
                     "id":1,
                     "precioBase": 20,
                     "impuestoPerc": 19,
@@ -106,7 +106,7 @@
                 "nom": "Hot",
                 "camas": {"doble":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefono":true},
-                "precios": [{
+                "preus": [{
                     "precioBase": 30,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
@@ -160,7 +160,7 @@
                 "nom": "HotPlus",
                 "camas": {"doble":2},
                 "servicios": {"jacuzzi":true, "minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefono":true},
-                "precios": [{
+                "preus": [{
                     "precioBase": 32,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
@@ -242,7 +242,7 @@
                 "nom": "Millen",
                 "camas": {"individual":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "cuna":true},
-                "precios": [{
+                "preus": [{
                     "precioBase": 50,
                     "impuestoPerc": 19,
                     "comisionesPerc": 25,
@@ -281,7 +281,7 @@
                 "nom": "mildos",
                 "camas":  {"doble":1},
                 "servicios": {"minibar":true, "televisiónn":true, "aire acondicionado":true, "caja fuerte":true, "telefon":true},
-                "precios": [{
+                "preus": [{
                     "precioBase": 60,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
@@ -321,7 +321,7 @@
                 "nom": "Viyus",
                 "camas": {"doble":1, "individual":1},
                 "servicios": {"jacuzzi":true, "minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefon":true},
-                "precios": [{
+                "preus": [{
                     "precioBase": 100,
                     "impuestoPerc": 19,
                     "comisionesPerc": 20,
@@ -408,7 +408,7 @@
                         "nom": "Crucial",
                         "camas": {"Doble":1},
                         "servicios": {"pack de bienvenida":true, "minibar":true, "cuna":true, "caja fuerte":true},
-                        "precios": [{
+                        "preus": [{
                             "precioBase": 24,
                             "impuestoPerc": 21,
                             "comisionesPerc": 14,
@@ -447,7 +447,7 @@
                         "nom": "doble luxury",
                         "camas": {"Doble":1, "1 individual":1},
                         "servicios": {"aire acondicionado":true, "caja fuerte":true, "minibar":true, "bañera hidromasaje":true, "telefono 24h":true},
-                        "precios": [{
+                        "preus": [{
                             "precioBase": 26,
                             "impuestoPerc": 19,
                             "comisionesPerc": 14,
@@ -487,7 +487,7 @@
                         "nom": "Suite Premium Swim Up",
                         "camas": {"Doble":2},
                         "servicios": {"doble planta":true, "gym":true, "minibar":true, "pack de bienvenida":true, "televisión":true, "telefono 24h":true, "acceso piscina privado":true},
-                        "precios": [{
+                        "preus": [{
                             "precioBase": 30,
                             "impuestoPerc": 19,
                             "comisionesPerc": 14,
