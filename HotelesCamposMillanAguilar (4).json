@@ -54,7 +54,7 @@
                     "comisionesPerc": 13,
                     "tempAlta": false,
                     "idagregador": "Ag1",
-                    "preciosTotal": 26.18
+                    "preuTotal": 26.18
                 }, {
                     "id":2,
                     "precioBase": 25,
@@ -62,7 +62,7 @@
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag1",
-                    "preciosTotal": 33.62
+                    "preuTotal": 33.62
                 }, {
                     "id":3,
                     "precioBase": 21,
@@ -70,7 +70,7 @@
                     "comisionesPerc": 12,
                     "tempAlta": false,
                     "idagregador": "Ag2",
-                    "preciosTotal": 28.24
+                    "preuTotal": 28.24
                 }, {
                     "id":4,
                     "precioBase": 26,
@@ -78,7 +78,7 @@
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag2",
-                    "preciosTotal": 34.96
+                    "preuTotal": 34.96
                 }, {
                     "id":5,
                     "precioBase": 22,
@@ -86,7 +86,7 @@
                     "comisionesPerc": 11,
                     "tempAlta": false,
                     "idagregador": "Ag3",
-                    "preciosTotal": 29.58
+                    "preuTotal": 29.58
                 }, {
                     "id":6,
                     "precioBase": 30,
@@ -94,7 +94,7 @@
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag3",
-                    "preciosTotal": 40.34
+                    "preuTotal": 40.34
                 }],
                 "servicio de habitaciones": false,
                 "wc": true,
@@ -112,42 +112,42 @@
                     "comisionesPerc": 13,
                     "tempAlta": false,
                     "idagregador": "Ag1",
-                    "preciosTotal": 40.34
+                    "preuTotal": 40.34
                 }, {
                     "precioBase": 35,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag1",
-                    "preciosTotal": 47.06
+                    "preuTotal": 47.06
                 }, {
                     "precioBase": 31,
                     "impuestoPerc": 19,
                     "comisionesPerc": 12,
                     "tempAlta": false,
                     "idagregador": "Ag2",
-                    "preciosTotal": 41.32
+                    "preuTotal": 41.32
                 }, {
                     "precioBase": 36,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag2",
-                    "preciosTotal": 47.98
+                    "preuTotal": 47.98
                 }, {
                     "precioBase": 32,
                     "impuestoPerc": 19,
                     "comisionesPerc": 11,
                     "tempAlta": false,
                     "idagregador": "Ag3",
-                    "preciosTotal": 42.27
+                    "preuTotal": 42.27
                 }, {
                     "precioBase": 40,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag3",
-                    "preciosTotal": 53.79
+                    "preuTotal": 53.79
                 }],
                 "cuina": {"microondas":true, "vitroceramica":true, "lavaplatos":true, "nevera":true},
                 "servicio de habitaciones": false,
@@ -166,42 +166,42 @@
                     "comisionesPerc": 13,
                     "tempAlta": false,
                     "idagregador": "Ag1",
-                    "preciosTotal": 26.18
+                    "preuTotal": 26.18
                 }, {
                     "precioBase": 35,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag1",
-                    "preciosTotal": 33.62
+                    "preuTotal": 33.62
                 }, {
                     "precioBase": 33,
                     "impuestoPerc": 19,
                     "comisionesPerc": 11,
                     "tempAlta": false,
                     "idagregador": "Ag2",
-                    "preciosTotal": 28.24
+                    "preuTotal": 28.24
                 }, {
                     "precioBase": 37,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag2",
-                    "preciosTotal": 34.96
+                    "preuTotal": 34.96
                 }, {
                     "precioBase": 35,
                     "impuestoPerc": 19,
                     "comisionesPerc": 14,
                     "tempAlta": false,
                     "idagregador": "Ag3",
-                    "preciosTotal": 29.58
+                    "preuTotal": 29.58
                 }, {
                     "precioBase": 40,
                     "impuestoPerc": 19,
                     "comisionesPerc": 16,
                     "tempAlta": true,
                     "idagregador": "Ag3",
-                    "preciosTotal": 40.34
+                    "preuTotal": 40.34
                 }],
                 "servicio de habitaciones": true,
                 "wc": true,
@@ -248,28 +248,28 @@
                     "comisionesPerc": 25,
                     "tempAlta": false,
                     "idagregador": "Ag4",
-                    "preciosTotal": 74.37
+                    "preuTotal": 74.37
                 }, {
                     "precioBase": 75,
                     "impuestoPerc": 19,
                     "comisionesPerc": 25,
                     "tempAlta": true,
                     "idagregador": "Ag4",
-                    "preciosTotal": 111.56
+                    "preuTotal": 111.56
                 }, {
                     "precioBase": 55,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": false,
                     "idagregador": "Ag5",
-                    "preciosTotal": 88.35
+                    "preuTotal": 88.35
                 }, {
                     "precioBase": 80,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": true,
                     "idagregador": "Ag5",
-                    "preciosTotal": 128.52
+                    "preuTotal": 128.52
                 }],
                 "servicio de habitaciones": false,
                 "wc": true,
@@ -287,28 +287,28 @@
                     "comisionesPerc": 15,
                     "tempAlta": false,
                     "idagregador": "Ag4",
-                    "preciosTotal": 82.11
+                    "preuTotal": 82.11
                 }, {
                     "precioBase": 76,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
                     "tempAlta": true,
                     "idagregador": "Ag4",
-                    "preciosTotal": 104
+                    "preuTotal": 104
                 }, {
                     "precioBase": 65,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": false,
                     "idagregador": "Ag5",
-                    "preciosTotal": 71.65
+                    "preuTotal": 71.65
                 }, {
                     "precioBase": 80,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": true,
                     "idagregador": "Ag5",
-                    "preciosTotal": 128.52
+                    "preuTotal": 128.52
                 }],
                 "cuina": {"microondas":true, "vitroceramica":true, "lavaplatos":true, "nevera":true},
                 "servicio de habitaciones": false,
@@ -327,28 +327,28 @@
                     "comisionesPerc": 20,
                     "tempAlta": false,
                     "idagregador": "Ag4",
-                    "preciosTotal": 142.8
+                    "preuTotal": 142.8
                 }, {
                     "precioBase": 136,
                     "impuestoPerc": 19,
                     "comisionesPerc": 20,
                     "tempAlta": true,
                     "idagregador": "Ag4",
-                    "preciosTotal": 194.20
+                    "preuTotal": 194.20
                 }, {
                     "precioBase": 250,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
                     "tempAlta": false,
                     "idagregador": "Ag5",
-                    "preciosTotal": 342.12
+                    "preuTotal": 342.12
                 }, {
                     "precioBase": 500,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
                     "tempAlta": true,
                     "idagregador": "Ag5",
-                    "preciosTotal": 684.25
+                    "preuTotal": 684.25
                 }],
                 "servicio de habitaciones": true,
                 "wc": true,
@@ -414,28 +414,28 @@
                             "comisionesPerc": 14,
                             "tempAlta": false,
                             "idagregador": "Ag6",
-                            "preciosTotal": 28.30
+                            "preuTotal": 28.30
                         }, {
                             "precioBase": 25,
                             "impuestoPerc": 22,
                             "comisionesPerc": 14,
                             "tempAlta": true,
                             "idagregador": "Ag6",
-                            "preciosTotal": 35.10
+                            "preuTotal": 35.10
                         }, {
                             "precioBase": 22,
                             "impuestoPerc": 20,
                             "comisionesPerc": 13,
                             "tempAlta": false,
                             "idagregador": "Ag7",
-                            "preciosTotal": 25.41
+                            "preuTotal": 25.41
                         }, {
                             "precioBase": 23,
                             "impuestoPerc": 20,
                             "comisionesPerc": 13,
                             "tempAlta": true,
                             "idagregador": "Ag7",
-                            "preciosTotal": 33.85
+                            "preuTotal": 33.85
                         }],
                         "servicio de habitaciones": false,
                         "wc": true,
@@ -453,28 +453,28 @@
                             "comisionesPerc": 14,
                             "tempAlta": false,
                             "idagregador": "Ag6",
-                            "preciosTotal": 31.18
+                            "preuTotal": 31.18
                         }, {
                             "precioBase": 28,
                             "impuestoPerc": 22,
                             "comisionesPerc": 14,
                             "tempAlta": true,
                             "idagregador": "Ag6",
-                            "preciosTotal": 34.62
+                            "preuTotal": 34.62
                         }, {
                             "precioBase": 21,
                             "impuestoPerc": 18,
                             "comisionesPerc": 13,
                             "tempAlta": false,
                             "idagregador": "Ag7",
-                            "preciosTotal": 27.24
+                            "preuTotal": 27.24
                         }, {
                             "precioBase": 26,
                             "impuestoPerc": 21,
                             "comisionesPerc": 13,
                             "tempAlta": true,
                             "idagregador": "Ag7",
-                            "preciosTotal": 29.96
+                            "preuTotal": 29.96
                         }],
                         "cuina": {"microondas":true, "lavaplatos":true, "nevera":true},
                         "servicio de habitaciones": true,
@@ -493,28 +493,28 @@
                             "comisionesPerc": 14,
                             "tempAlta": false,
                             "idagregador": "Ag6",
-                            "preciosTotal": 39.18
+                            "preuTotal": 39.18
                         }, {
                             "precioBase": 38,
                             "impuestoPerc": 22,
                             "comisionesPerc": 14,
                             "tempAlta": true,
                             "idagregador": "Ag6",
-                            "preciosTotal": 42.28
+                            "preuTotal": 42.28
                         }, {
                             "precioBase": 29,
                             "impuestoPerc": 18,
                             "comisionesPerc": 13,
                             "tempAlta": false,
                             "idagregador": "Ag7",
-                            "preciosTotal": 38.84
+                            "preuTotal": 38.84
                         }, {
                             "precioBase": 36,
                             "impuestoPerc": 21,
                             "comisionesPerc": 13,
                             "tempAlta": true,
                             "idagregador": "Ag7",
-                            "preciosTotal": 41.51
+                            "preuTotal": 41.51
                         }],
                         "servicio de habitaciones": true,
                         "wc": true,
