@@ -49,7 +49,7 @@
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "cuna":true},
                 "preus": [{
                     "id":1,
-                    "precioBase": 20,
+                    "preuNet": 20,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": false,
@@ -57,7 +57,7 @@
                     "preuTotal": 26.18
                 }, {
                     "id":2,
-                    "precioBase": 25,
+                    "preuNet": 25,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
@@ -65,7 +65,7 @@
                     "preuTotal": 33.62
                 }, {
                     "id":3,
-                    "precioBase": 21,
+                    "preuNet": 21,
                     "impuestoPerc": 19,
                     "comisionesPerc": 12,
                     "tempAlta": false,
@@ -73,7 +73,7 @@
                     "preuTotal": 28.24
                 }, {
                     "id":4,
-                    "precioBase": 26,
+                    "preuNet": 26,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
@@ -81,7 +81,7 @@
                     "preuTotal": 34.96
                 }, {
                     "id":5,
-                    "precioBase": 22,
+                    "preuNet": 22,
                     "impuestoPerc": 19,
                     "comisionesPerc": 11,
                     "tempAlta": false,
@@ -89,7 +89,7 @@
                     "preuTotal": 29.58
                 }, {
                     "id":6,
-                    "precioBase": 30,
+                    "preuNet": 30,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
@@ -107,42 +107,42 @@
                 "camas": {"doble":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefono":true},
                 "preus": [{
-                    "precioBase": 30,
+                    "preuNet": 30,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": false,
                     "idagregador": "Ag1",
                     "preuTotal": 40.34
                 }, {
-                    "precioBase": 35,
+                    "preuNet": 35,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag1",
                     "preuTotal": 47.06
                 }, {
-                    "precioBase": 31,
+                    "preuNet": 31,
                     "impuestoPerc": 19,
                     "comisionesPerc": 12,
                     "tempAlta": false,
                     "idagregador": "Ag2",
                     "preuTotal": 41.32
                 }, {
-                    "precioBase": 36,
+                    "preuNet": 36,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag2",
                     "preuTotal": 47.98
                 }, {
-                    "precioBase": 32,
+                    "preuNet": 32,
                     "impuestoPerc": 19,
                     "comisionesPerc": 11,
                     "tempAlta": false,
                     "idagregador": "Ag3",
                     "preuTotal": 42.27
                 }, {
-                    "precioBase": 40,
+                    "preuNet": 40,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
@@ -161,42 +161,42 @@
                 "camas": {"doble":2},
                 "servicios": {"jacuzzi":true, "minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefono":true},
                 "preus": [{
-                    "precioBase": 32,
+                    "preuNet": 32,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": false,
                     "idagregador": "Ag1",
                     "preuTotal": 26.18
                 }, {
-                    "precioBase": 35,
+                    "preuNet": 35,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag1",
                     "preuTotal": 33.62
                 }, {
-                    "precioBase": 33,
+                    "preuNet": 33,
                     "impuestoPerc": 19,
                     "comisionesPerc": 11,
                     "tempAlta": false,
                     "idagregador": "Ag2",
                     "preuTotal": 28.24
                 }, {
-                    "precioBase": 37,
+                    "preuNet": 37,
                     "impuestoPerc": 19,
                     "comisionesPerc": 13,
                     "tempAlta": true,
                     "idagregador": "Ag2",
                     "preuTotal": 34.96
                 }, {
-                    "precioBase": 35,
+                    "preuNet": 35,
                     "impuestoPerc": 19,
                     "comisionesPerc": 14,
                     "tempAlta": false,
                     "idagregador": "Ag3",
                     "preuTotal": 29.58
                 }, {
-                    "precioBase": 40,
+                    "preuNet": 40,
                     "impuestoPerc": 19,
                     "comisionesPerc": 16,
                     "tempAlta": true,
@@ -243,28 +243,28 @@
                 "camas": {"individual":1},
                 "servicios": {"minibar":true, "televisión":true, "aire acondicionado":true, "cuna":true},
                 "preus": [{
-                    "precioBase": 50,
+                    "preuNet": 50,
                     "impuestoPerc": 19,
                     "comisionesPerc": 25,
                     "tempAlta": false,
                     "idagregador": "Ag4",
                     "preuTotal": 74.37
                 }, {
-                    "precioBase": 75,
+                    "preuNet": 75,
                     "impuestoPerc": 19,
                     "comisionesPerc": 25,
                     "tempAlta": true,
                     "idagregador": "Ag4",
                     "preuTotal": 111.56
                 }, {
-                    "precioBase": 55,
+                    "preuNet": 55,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": false,
                     "idagregador": "Ag5",
                     "preuTotal": 88.35
                 }, {
-                    "precioBase": 80,
+                    "preuNet": 80,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": true,
@@ -282,28 +282,28 @@
                 "camas":  {"doble":1},
                 "servicios": {"minibar":true, "televisiónn":true, "aire acondicionado":true, "caja fuerte":true, "telefon":true},
                 "preus": [{
-                    "precioBase": 60,
+                    "preuNet": 60,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
                     "tempAlta": false,
                     "idagregador": "Ag4",
                     "preuTotal": 82.11
                 }, {
-                    "precioBase": 76,
+                    "preuNet": 76,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
                     "tempAlta": true,
                     "idagregador": "Ag4",
                     "preuTotal": 104
                 }, {
-                    "precioBase": 65,
+                    "preuNet": 65,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": false,
                     "idagregador": "Ag5",
                     "preuTotal": 71.65
                 }, {
-                    "precioBase": 80,
+                    "preuNet": 80,
                     "impuestoPerc": 19,
                     "comisionesPerc": 35,
                     "tempAlta": true,
@@ -322,28 +322,28 @@
                 "camas": {"doble":1, "individual":1},
                 "servicios": {"jacuzzi":true, "minibar":true, "televisión":true, "aire acondicionado":true, "caja fuerte":true, "telefon":true},
                 "preus": [{
-                    "precioBase": 100,
+                    "preuNet": 100,
                     "impuestoPerc": 19,
                     "comisionesPerc": 20,
                     "tempAlta": false,
                     "idagregador": "Ag4",
                     "preuTotal": 142.8
                 }, {
-                    "precioBase": 136,
+                    "preuNet": 136,
                     "impuestoPerc": 19,
                     "comisionesPerc": 20,
                     "tempAlta": true,
                     "idagregador": "Ag4",
                     "preuTotal": 194.20
                 }, {
-                    "precioBase": 250,
+                    "preuNet": 250,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
                     "tempAlta": false,
                     "idagregador": "Ag5",
                     "preuTotal": 342.12
                 }, {
-                    "precioBase": 500,
+                    "preuNet": 500,
                     "impuestoPerc": 19,
                     "comisionesPerc": 15,
                     "tempAlta": true,
@@ -409,28 +409,28 @@
                         "camas": {"Doble":1},
                         "servicios": {"pack de bienvenida":true, "minibar":true, "cuna":true, "caja fuerte":true},
                         "preus": [{
-                            "precioBase": 24,
+                            "preuNet": 24,
                             "impuestoPerc": 21,
                             "comisionesPerc": 14,
                             "tempAlta": false,
                             "idagregador": "Ag6",
                             "preuTotal": 28.30
                         }, {
-                            "precioBase": 25,
+                            "preuNet": 25,
                             "impuestoPerc": 22,
                             "comisionesPerc": 14,
                             "tempAlta": true,
                             "idagregador": "Ag6",
                             "preuTotal": 35.10
                         }, {
-                            "precioBase": 22,
+                            "preuNet": 22,
                             "impuestoPerc": 20,
                             "comisionesPerc": 13,
                             "tempAlta": false,
                             "idagregador": "Ag7",
                             "preuTotal": 25.41
                         }, {
-                            "precioBase": 23,
+                            "preuNet": 23,
                             "impuestoPerc": 20,
                             "comisionesPerc": 13,
                             "tempAlta": true,
@@ -448,28 +448,28 @@
                         "camas": {"Doble":1, "1 individual":1},
                         "servicios": {"aire acondicionado":true, "caja fuerte":true, "minibar":true, "bañera hidromasaje":true, "telefono 24h":true},
                         "preus": [{
-                            "precioBase": 26,
+                            "preuNet": 26,
                             "impuestoPerc": 19,
                             "comisionesPerc": 14,
                             "tempAlta": false,
                             "idagregador": "Ag6",
                             "preuTotal": 31.18
                         }, {
-                            "precioBase": 28,
+                            "preuNet": 28,
                             "impuestoPerc": 22,
                             "comisionesPerc": 14,
                             "tempAlta": true,
                             "idagregador": "Ag6",
                             "preuTotal": 34.62
                         }, {
-                            "precioBase": 21,
+                            "preuNet": 21,
                             "impuestoPerc": 18,
                             "comisionesPerc": 13,
                             "tempAlta": false,
                             "idagregador": "Ag7",
                             "preuTotal": 27.24
                         }, {
-                            "precioBase": 26,
+                            "preuNet": 26,
                             "impuestoPerc": 21,
                             "comisionesPerc": 13,
                             "tempAlta": true,
@@ -488,28 +488,28 @@
                         "camas": {"Doble":2},
                         "servicios": {"doble planta":true, "gym":true, "minibar":true, "pack de bienvenida":true, "televisión":true, "telefono 24h":true, "acceso piscina privado":true},
                         "preus": [{
-                            "precioBase": 30,
+                            "preuNet": 30,
                             "impuestoPerc": 19,
                             "comisionesPerc": 14,
                             "tempAlta": false,
                             "idagregador": "Ag6",
                             "preuTotal": 39.18
                         }, {
-                            "precioBase": 38,
+                            "preuNet": 38,
                             "impuestoPerc": 22,
                             "comisionesPerc": 14,
                             "tempAlta": true,
                             "idagregador": "Ag6",
                             "preuTotal": 42.28
                         }, {
-                            "precioBase": 29,
+                            "preuNet": 29,
                             "impuestoPerc": 18,
                             "comisionesPerc": 13,
                             "tempAlta": false,
                             "idagregador": "Ag7",
                             "preuTotal": 38.84
                         }, {
-                            "precioBase": 36,
+                            "preuNet": 36,
                             "impuestoPerc": 21,
                             "comisionesPerc": 13,
                             "tempAlta": true,
